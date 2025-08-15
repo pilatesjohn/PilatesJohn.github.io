@@ -8,8 +8,8 @@
 <meta property="og:title" content="For Sale: Escape Traveler XL Tiny House — $105,000">
 <meta property="og:description" content="Beautifully upgraded Escape Traveler XL tiny house with rare downstairs bedroom, loft, full kitchen, full-size tub, high-efficiency systems, and over $17k in premium upgrades.">
 <meta property="og:type" content="product">
-<meta property="og:image" content="img/hero-exterior.jpg">
-<link rel="icon" href="img/hero-exterior.jpg">
+<meta property="og:image" content="img:hero-exterior.jpg">
+<link rel="icon" href="img:hero-exterior.jpg">
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
@@ -19,16 +19,16 @@
   "model":"Traveler XL",
   "description":"Beautifully upgraded Escape Traveler XL tiny house with rare downstairs bedroom, loft, full kitchen, full-size tub, high-efficiency systems, and over $17k in premium upgrades. Move-in ready with only 1,000 miles traveled.",
   "image":[
-    "img/hero-exterior.jpg",
-    "img/dining-window.jpg",
-    "img/patio-chairs.jpg",
-    "img/loft-fan.jpg",
-    "img/bedroom-builtins.jpg",
-    "img/loft-bed.jpg",
-    "img/kitchen-bar.jpg",
-    "img/living-kitchen.jpg",
-    "img/patio-dog.jpg",
-    "img/dining-window-2.jpg"
+    "img:hero-exterior.jpg",
+    "img:dining-window.jpg",
+    "img:patio-chairs.jpg",
+    "img:loft-fan.jpg",
+    "img:bedroom-builtins.jpg",
+    "img:loft-bed.jpg",
+    "img:kitchen-bar.jpg",
+    "img:living-kitchen.jpg",
+    "img:patio-dog.jpg",
+    "img:dining-window-2.jpg"
   ],
   "offers":{"@type":"Offer","priceCurrency":"USD","price":"105000","availability":"https://schema.org/InStock"}
 }
@@ -137,11 +137,11 @@ footer{padding:32px 24px;text-align:center;color:var(--muted)}
             <li>Dining area with a picture-window</li>
           </ul>
         </div>
-        <div><img src="img/living-kitchen.jpg" alt="Living room and kitchen view"></div>
+        <div><img src="img:living-kitchen.jpg" alt="Living room and kitchen view"></div>
       </div>
 
       <div class="kv" style="margin-top:12px">
-        <div><img src="img/bedroom-builtins.jpg" alt="Downstairs bedroom with built-ins"></div>
+        <div><img src="img:bedroom-builtins.jpg" alt="Downstairs bedroom with built-ins"></div>
         <div>
           <h3>Bathroom</h3>
           <ul>
@@ -182,16 +182,16 @@ footer{padding:32px 24px;text-align:center;color:var(--muted)}
     <div class="section-card">
       <h2>Photo Gallery</h2>
       <div class="grid gallery">
-        <img src="img/hero-exterior.jpg" alt="Tiny house exterior">
-        <img src="img/dining-window.jpg" alt="Dining area picture window">
-        <img src="img/patio-chairs.jpg" alt="Patio chairs">
-        <img src="img/loft-fan.jpg" alt="Loft with ceiling fan">
-        <img src="img/bedroom-builtins.jpg" alt="Bedroom built-ins">
-        <img src="img/loft-bed.jpg" alt="Loft bedroom">
-        <img src="img/kitchen-bar.jpg" alt="Kitchen bar area">
-        <img src="img/living-kitchen.jpg" alt="Living and kitchen view">
-        <img src="img/patio-dog.jpg" alt="Patio with dog">
-        <img src="img/dining-window-2.jpg" alt="Dining window second angle">
+        <img src="img:hero-exterior.jpg" alt="Tiny house exterior">
+        <img src="img:dining-window.jpg" alt="Dining area picture window">
+        <img src="img:patio-chairs.jpg" alt="Patio chairs">
+        <img src="img:loft-fan.jpg" alt="Loft with ceiling fan">
+        <img src="img:bedroom-builtins.jpg" alt="Bedroom built-ins">
+        <img src="img:loft-bed.jpg" alt="Loft bedroom">
+        <img src="img:kitchen-bar.jpg" alt="Kitchen bar area">
+        <img src="img:living-kitchen.jpg" alt="Living and kitchen view">
+        <img src="img:patio-dog.jpg" alt="Patio with dog">
+        <img src="img:dining-window-2.jpg" alt="Dining window second angle">
       </div>
     </div>
   </section>
