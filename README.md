@@ -40,7 +40,7 @@ html{scroll-behavior:smooth}
 body{margin:0;font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg)}
 a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
 .container{max-width:1100px;margin:0 auto;padding:24px}
-header{background:linear-gradient(180deg,rgba(0,0,0,.60),rgba(0,0,0,.75)),url('img/hero-exterior.jpg') center/cover no-repeat;color:var(--ink)}
+header{background:linear-gradient(180deg,rgba(0,0,0,.60),rgba(0,0,0,.75)),url('img:hero-exterior.jpg') center/cover no-repeat;color:var(--ink)}
 .nav{display:flex;gap:16px;flex-wrap:wrap;align-items:center;justify-content:flex-end;padding:10px 24px}
 .nav a{color:#fff;opacity:.9}
 .hero{padding:100px 24px 80px}
